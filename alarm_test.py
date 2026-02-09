@@ -1,3 +1,3 @@
 # alarm
 # set up time
-!time_
+!time
